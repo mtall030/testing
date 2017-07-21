@@ -2,3 +2,6 @@
 #apples
 #bananas
 #pizza
+#milk
+#eggs
+#veggies
